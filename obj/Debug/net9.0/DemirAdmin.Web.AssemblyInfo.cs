@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemirAdmin.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb336d23011a6a505b35cc69916a540105ea646b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b8b6be84542e5b832de5d84758b2cbd47c3b47")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemirAdmin.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemirAdmin.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

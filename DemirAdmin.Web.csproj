@@ -6703,6 +6703,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DemirAdmin.DAL\DemirAdmin.DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <TypeScriptCompile Include="wwwroot\bower_components\fullcalendar\dist\fullcalendar.d.ts" />
     <TypeScriptCompile Include="wwwroot\bower_components\moment\moment.d.ts" />
   </ItemGroup>
